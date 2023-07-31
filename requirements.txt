@@ -1,7 +1,3 @@
-click==7.1.2
-Flask==1.1.2
-gunicorn==20.0.4
-itsdangerous==1.1.0
-Jinja2==2.11.3
-MarkupSafe==1.1.1
-Werkzeug==1.0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef43d2c2e4d3fec0e984f27cdf7ddc32150b66e8894338df7233b99dc97e877
+size 1395
